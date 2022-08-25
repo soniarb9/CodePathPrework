@@ -3,10 +3,9 @@
 Tip Calculator 
 # Pre-work - Tip Calculator
 Prework Tip Calculator  is a tip calculator application for iOS.
-(NOTE: THE TIP CALCULATOR FOLDER IS THE MOST RECENT)
 Submitted by: **Sonia Sharma**
 
-Time spent: **4** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
@@ -37,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-I coded everything correctly but it is not showing up on the simulator. Also, GIF isnt appearing here.
+The full label elements are not diplaying the Doubles fully.
 ## License
 
     Copyright [2022] [Sonia Sharma]
